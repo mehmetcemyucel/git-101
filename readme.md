@@ -1,1 +1,1 @@
-master -> f2
+master -> f2 -> f1
